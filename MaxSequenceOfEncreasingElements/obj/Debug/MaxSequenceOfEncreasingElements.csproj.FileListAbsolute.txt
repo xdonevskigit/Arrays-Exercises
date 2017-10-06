@@ -1,0 +1,6 @@
+C:\Users\Icaka\source\repos\ArraysExercises\MaxSequenceOfEncreasingElements\bin\Debug\MaxSequenceOfEncreasingElements.exe.config
+C:\Users\Icaka\source\repos\ArraysExercises\MaxSequenceOfEncreasingElements\bin\Debug\MaxSequenceOfEncreasingElements.exe
+C:\Users\Icaka\source\repos\ArraysExercises\MaxSequenceOfEncreasingElements\bin\Debug\MaxSequenceOfEncreasingElements.pdb
+C:\Users\Icaka\source\repos\ArraysExercises\MaxSequenceOfEncreasingElements\obj\Debug\MaxSequenceOfEncreasingElements.csproj.CoreCompileInputs.cache
+C:\Users\Icaka\source\repos\ArraysExercises\MaxSequenceOfEncreasingElements\obj\Debug\MaxSequenceOfEncreasingElements.exe
+C:\Users\Icaka\source\repos\ArraysExercises\MaxSequenceOfEncreasingElements\obj\Debug\MaxSequenceOfEncreasingElements.pdb

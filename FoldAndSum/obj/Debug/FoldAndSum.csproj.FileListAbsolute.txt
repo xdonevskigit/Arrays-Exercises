@@ -1,0 +1,6 @@
+C:\Users\Icaka\source\repos\ArraysExercises\FoldAndSum\bin\Debug\FoldAndSum.exe.config
+C:\Users\Icaka\source\repos\ArraysExercises\FoldAndSum\bin\Debug\FoldAndSum.exe
+C:\Users\Icaka\source\repos\ArraysExercises\FoldAndSum\bin\Debug\FoldAndSum.pdb
+C:\Users\Icaka\source\repos\ArraysExercises\FoldAndSum\obj\Debug\FoldAndSum.csproj.CoreCompileInputs.cache
+C:\Users\Icaka\source\repos\ArraysExercises\FoldAndSum\obj\Debug\FoldAndSum.exe
+C:\Users\Icaka\source\repos\ArraysExercises\FoldAndSum\obj\Debug\FoldAndSum.pdb

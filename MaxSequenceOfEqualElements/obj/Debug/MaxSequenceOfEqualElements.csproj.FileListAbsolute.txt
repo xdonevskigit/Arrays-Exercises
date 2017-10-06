@@ -1,0 +1,6 @@
+C:\Users\Icaka\source\repos\ArraysExercises\MaxSequenceOfEqualElements\bin\Debug\MaxSequenceOfEqualElements.exe.config
+C:\Users\Icaka\source\repos\ArraysExercises\MaxSequenceOfEqualElements\bin\Debug\MaxSequenceOfEqualElements.exe
+C:\Users\Icaka\source\repos\ArraysExercises\MaxSequenceOfEqualElements\bin\Debug\MaxSequenceOfEqualElements.pdb
+C:\Users\Icaka\source\repos\ArraysExercises\MaxSequenceOfEqualElements\obj\Debug\MaxSequenceOfEqualElements.csproj.CoreCompileInputs.cache
+C:\Users\Icaka\source\repos\ArraysExercises\MaxSequenceOfEqualElements\obj\Debug\MaxSequenceOfEqualElements.exe
+C:\Users\Icaka\source\repos\ArraysExercises\MaxSequenceOfEqualElements\obj\Debug\MaxSequenceOfEqualElements.pdb

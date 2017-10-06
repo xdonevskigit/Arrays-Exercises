@@ -1,0 +1,6 @@
+C:\Users\Icaka\source\repos\ArraysExercises\EqualSums\bin\Debug\EqualSums.exe.config
+C:\Users\Icaka\source\repos\ArraysExercises\EqualSums\bin\Debug\EqualSums.exe
+C:\Users\Icaka\source\repos\ArraysExercises\EqualSums\bin\Debug\EqualSums.pdb
+C:\Users\Icaka\source\repos\ArraysExercises\EqualSums\obj\Debug\EqualSums.csproj.CoreCompileInputs.cache
+C:\Users\Icaka\source\repos\ArraysExercises\EqualSums\obj\Debug\EqualSums.exe
+C:\Users\Icaka\source\repos\ArraysExercises\EqualSums\obj\Debug\EqualSums.pdb

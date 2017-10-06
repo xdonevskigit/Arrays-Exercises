@@ -1,0 +1,6 @@
+C:\Users\Icaka\source\repos\ArraysExercises\CompareCharArrays\bin\Debug\CompareCharArrays.exe.config
+C:\Users\Icaka\source\repos\ArraysExercises\CompareCharArrays\bin\Debug\CompareCharArrays.exe
+C:\Users\Icaka\source\repos\ArraysExercises\CompareCharArrays\bin\Debug\CompareCharArrays.pdb
+C:\Users\Icaka\source\repos\ArraysExercises\CompareCharArrays\obj\Debug\CompareCharArrays.csproj.CoreCompileInputs.cache
+C:\Users\Icaka\source\repos\ArraysExercises\CompareCharArrays\obj\Debug\CompareCharArrays.exe
+C:\Users\Icaka\source\repos\ArraysExercises\CompareCharArrays\obj\Debug\CompareCharArrays.pdb

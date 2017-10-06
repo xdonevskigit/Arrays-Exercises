@@ -1,0 +1,6 @@
+C:\Users\Icaka\source\repos\ArraysExercises\IndexOfLetters\bin\Debug\IndexOfLetters.exe.config
+C:\Users\Icaka\source\repos\ArraysExercises\IndexOfLetters\bin\Debug\IndexOfLetters.exe
+C:\Users\Icaka\source\repos\ArraysExercises\IndexOfLetters\bin\Debug\IndexOfLetters.pdb
+C:\Users\Icaka\source\repos\ArraysExercises\IndexOfLetters\obj\Debug\IndexOfLetters.csproj.CoreCompileInputs.cache
+C:\Users\Icaka\source\repos\ArraysExercises\IndexOfLetters\obj\Debug\IndexOfLetters.exe
+C:\Users\Icaka\source\repos\ArraysExercises\IndexOfLetters\obj\Debug\IndexOfLetters.pdb

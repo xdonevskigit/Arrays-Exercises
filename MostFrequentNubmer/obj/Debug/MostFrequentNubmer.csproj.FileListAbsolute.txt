@@ -1,0 +1,6 @@
+C:\Users\Icaka\source\repos\ArraysExercises\MostFrequentNubmer\bin\Debug\MostFrequentNubmer.exe.config
+C:\Users\Icaka\source\repos\ArraysExercises\MostFrequentNubmer\bin\Debug\MostFrequentNubmer.exe
+C:\Users\Icaka\source\repos\ArraysExercises\MostFrequentNubmer\bin\Debug\MostFrequentNubmer.pdb
+C:\Users\Icaka\source\repos\ArraysExercises\MostFrequentNubmer\obj\Debug\MostFrequentNubmer.csproj.CoreCompileInputs.cache
+C:\Users\Icaka\source\repos\ArraysExercises\MostFrequentNubmer\obj\Debug\MostFrequentNubmer.exe
+C:\Users\Icaka\source\repos\ArraysExercises\MostFrequentNubmer\obj\Debug\MostFrequentNubmer.pdb
